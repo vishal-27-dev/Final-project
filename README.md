@@ -12,7 +12,6 @@ Welcome to the official repository for Vishal Kumar Rajak's personal web develop
 
 [![Live Demo](https://img.shields.io/badge/-View%20Live%20Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://cool-bienenstitch-498c30.netlify.app/)
 
-*This button will take you directly to the live, deployed version of the portfolio website.*
 
 ---
 
@@ -54,8 +53,8 @@ To get a local copy of this project up and running, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/vishal-rajak-portfolio.git
-    cd vishal-rajak-portfolio
+    git clone https://github.com/vishal-27-dev/Final-project.git
+    cd Final-project
     ```
 
 2.  **Install Dependencies:**
@@ -84,8 +83,8 @@ To get a local copy of this project up and running, follow these steps:
 
 ## 📊 Project Status & Build Details
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/vishal-rajak-portfolio?style=for-the-badge&label=Last%20Update&color=green)](https://github.com/your-username/vishal-rajak-portfolio/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/vishal-rajak-portfolio?style=for-the-badge)](https://github.com/your-username/vishal-rajak-portfolio)
+[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/vishal-rajak-portfolio?style=for-the-badge&label=Last%20Update&color=green)](https://github.com/vishal-27-dev/Final-project/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/your-username/vishal-rajak-portfolio?style=for-the-badge)](https://github.com/vishal-27-dev/Final-project)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE.md)
 <!-- Add other badges if you have them: e.g., CI/CD status (GitHub Actions, Vercel, Netlify), dependencies, test coverage -->
 <!-- Example for Vercel deployment status (requires configuration):
